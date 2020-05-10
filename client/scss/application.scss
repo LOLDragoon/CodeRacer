@@ -3,14 +3,15 @@
 @import '_mainContainer';
 
 
+
 html, body{
-    background-color: $basestar;
-    color: $lightblueTron;
-    text-shadow: -1px 1px 10px $cyanTron;
-    height:100%;
-    margin: 0;
-    padding:0;
-    overflow: auto;
+  background-color: $basestar;
+  color: $lightblueTron;
+  text-shadow: -1px 1px 10px $cyanTron;
+  height:100%;
+  margin: 0;
+  padding:0;
+  overflow: auto;
 }
 
 
